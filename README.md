@@ -37,6 +37,3 @@ A JavaFX desktop application for monitoring and analyzing industrial production 
 
 This project was developed as part of a college course and is intended for educational purposes.
 
----
-
-Feel free to customize this as needed for your specific project folder structure or hosting.
