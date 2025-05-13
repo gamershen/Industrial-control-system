@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="javafx-sdk-21.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Jar/jfreechart-1.0.19" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Jar/jfreechart-1.0.19/experimental" />
+      <root url="file://$PROJECT_DIR$/Jar/jfreechart-1.0.19/source" />
+      <root url="file://$PROJECT_DIR$/Jar/jfreechart-1.0.19/swt" />
+      <root url="file://$PROJECT_DIR$/Jar/jfreechart-1.0.19/tests" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0/src/build/java" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0/src/demo/java" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0/src/generated/java" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0/src/legacy/java" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0/src/main/core-api/java" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0/src/main/core-impl/java" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0/src/main/protocol-impl/java" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0/src/main/user-api/java" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0/src/main/user-impl/java" />
+      <root url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0/src/test/java" />
+      <root url="file://$PROJECT_DIR$/Jar/javafx-sdk-21.0.2" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/Jar/jfreechart-1.0.19" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/Jar/mysql-connector-j-8.3.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/Jar/javafx-sdk-21.0.2" recursive="false" type="SOURCES" />
+  </library>
+</component>
