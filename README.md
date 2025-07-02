@@ -9,15 +9,15 @@ A JavaFX desktop application for monitoring and analyzing industrial production 
 
 ## Features
 
-- 📊 **Data Visualization**: Pie chart display of zero-value entries.
-- 🔎 **Data Analysis Tools**:
+-  **Data Visualization**: Pie chart display of zero-value entries.
+-  **Data Analysis Tools**:
   - Sum of logged values by ID.
   - Highest logged value with timestamp.
   - Entries with logged value `0.0`.
   - ID with maximum logged values within a date range.
-- ⚙️ **Multithreaded Execution**: Optionally run multiple queries in parallel.
-- 🧩 **Modular Design**: Structured and maintainable codebase.
-- 🎨 **Modern UI**: JavaFX interface with custom styling and layout.
+-  **Multithreaded Execution**: Optionally run multiple queries in parallel.
+-  **Modular Design**: Structured and maintainable codebase.
+-  **Modern UI**: JavaFX interface with custom styling and layout.
 
 ## Technologies Used
 
