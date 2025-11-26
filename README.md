@@ -25,7 +25,6 @@ A JavaFX desktop application for monitoring and analyzing industrial production 
 - JavaFX
 - JDBC
 - MySQL
-- CSV file parsing
 
 
 ## Screenshots
