@@ -5,7 +5,7 @@ Industrial control system for a greenhouse nylon sheeting manufacturing plant
 
 # Industrial Production Monitoring App
 
-A JavaFX desktop application for monitoring and analyzing industrial production data based on real-world datasets. Designed as a college project, it reads data from CSV files and performs analysis using MySQL queries.
+A JavaFX desktop application for monitoring and analyzing industrial production data based on real-world datasets. Designed as a college project, it reads data from SQL Database and performs analysis using MySQL queries.
 
 ## Features
 
